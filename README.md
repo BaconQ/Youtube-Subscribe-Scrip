@@ -1,4 +1,4 @@
-# Youtube-Unsubscribe-Scrip
+# Youtube-Unsubscribe-ScripT
 A script to mass unsubscribe from all youtube channels
 
 ## Steps
